@@ -10,3 +10,5 @@ steps:
     image: alpine
     commands:
       - echo hello drone
+      - ls -la
+      -echo 22--9999-test
