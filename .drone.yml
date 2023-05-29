@@ -12,3 +12,4 @@ steps:
       - echo hello drone
       - ls -la
       - echo 22--9999-test
+      - docker -version
